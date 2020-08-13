@@ -20,7 +20,7 @@ Both apis are in trouble due to the number of requests
 
 
 <!-- Talking about you -->
-<!-- **Talking about Personal Stuffs:** -->
+ **Talking about Personal Stuffs:**
 
 
 - 🔭 I’m currently working on [Smart4L](https://github.com/Smart4L/Smart4L);
