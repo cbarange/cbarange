@@ -78,8 +78,8 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <a href="https://github.com/cbarange/IOT_EPSI_B3">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cbarange&repo=IOT_EPSI_B3" />
   </a>
-  <a href="https://github.com/cbarange/PyPoke_-EPSI-Python-">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cbarange&repo=PyPoke_-EPSI-Python-" />
+  <a href="https://github.com/cbarange/pypoke-game">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cbarange&repo=pypoke-game" />
   </a>
 </p>
 
