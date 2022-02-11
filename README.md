@@ -84,3 +84,4 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 </p>
 
 <!-- This readme was created by Clément BARANGER - https://github.com/cbarange -->
+<img align="center" src='dog.webp' width='200"'>
