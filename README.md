@@ -22,8 +22,9 @@ Both apis are in trouble due to the number of requests
 <!-- Talking about you -->
  **Talking about Personal Stuffs:**
 
-
-- 🔭 I’m currently working on [Smart4L](https://github.com/Smart4L/Smart4L);
+- 🚀 Founder of @AccessDevops
+- 🪣 Creator of S3 Explorer
+- 🔭 See our connected 40's years old car 👉 [Smart4L](https://github.com/Smart4L/Smart4L);
 - 🌱 I’m currently learning _Data storage optimisation_, _Continuous integration_, _Advanced python features_
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with  😭 -->
@@ -69,17 +70,11 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 <!-- Its main projects -->
 <p align="center">
+  <a href="https://github.com/AccessDevops/S3Explorer">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AccessDevops&repo=S3Explorer" />
+  </a>
   <a href="https://github.com/Smart4L/Smart4L">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Smart4L&repo=Smart4L" />
-  </a>
-  <a href="https://github.com/cbarange/app-questionnaire-vue">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cbarange&repo=app-questionnaire-vue" />
-  </a>
-  <a href="https://github.com/cbarange/IOT_EPSI_B3">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cbarange&repo=IOT_EPSI_B3" />
-  </a>
-  <a href="https://github.com/cbarange/pypoke-game">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cbarange&repo=pypoke-game" />
   </a>
 </p>
 
